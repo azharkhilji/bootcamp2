@@ -30,4 +30,3 @@ jobs:
       run: surge ./ / bootkhilji.surge.sh --token ${{secrets.SURGE_TOKEN}}
 
 
-      run: surge ./ bootkhilji.surge.sh  --token ${{secrets.SURGE_TOKEN}}
